@@ -8,7 +8,7 @@ export const AnimatedBorderButton = ({ children }) => {
         duration-1000 focus:outline-none focus-visible:ring-2 
         focus-visible:ring-primary focus-visible:ring-offset-2 
         disabled:opacity-50 disabled:cursor-not-allowed group 
-        px-8 py-4 text-lg font-medium rounded-full overflow-visible 
+        md:px-8 md:py-4 px-3.5 py-3.5 text-lg font-medium rounded-full overflow-visible 
         animated-border"
     >
       <svg

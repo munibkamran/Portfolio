@@ -121,10 +121,12 @@ const Hero = () => {
               >
                 Contact Me <ArrowRight className="w-5 h-5" />
               </Button>
+              <a href="/my-cv.pdf" download="Munib_CV.pdf">
               <AnimatedBorderButton>
                 <Download className="w-5 h-5" />
                 Download CV
               </AnimatedBorderButton>
+              </a>
             </div>
 
             <div
